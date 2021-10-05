@@ -10,7 +10,7 @@
 ・問い合わせフォームの枠のみ作成する。
 
 ## サイトテーマ
-変なレストランのサイト
+レストランのサイト
 
 ## ワイヤーフレーム
 https://docs.google.com/spreadsheets/d/19NUFjsLINPtQ53HPH0hZ5dfEbQyiEwWJbtXWQLuCkW0/edit#gid=0
